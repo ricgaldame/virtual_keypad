@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MHH Keypad</string>
+    <!-- Labels for subtype -->
+    <string name="label_subtype_generic">English (US)</string>
+    <!--<string name="label_subtype_generic">%s</string>
+    <string name="label_subtype_en_GB">English (GB)</string>-->
+</resources>
